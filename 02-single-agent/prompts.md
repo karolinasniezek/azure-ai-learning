@@ -1,1 +1,0 @@
-tak mam lecimy dalej
