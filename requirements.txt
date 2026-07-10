@@ -3,3 +3,4 @@ python-dotenv
 azure-ai-projects
 azure-identity
 python-dotenv
+azure-ai-textanalytics
