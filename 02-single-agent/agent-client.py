@@ -32,4 +32,4 @@ response = openai_client.chat.completions.create(
     ]
 )
 
-print(response.choices[0].message.content) oki
+print(response.choices[0].message.content)
